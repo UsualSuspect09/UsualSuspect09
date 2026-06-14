@@ -50,7 +50,7 @@ Data Science • Machine Learning  • Formula 1 • Windows Forensics • Germa
 
 Machine learning and AI powered F1 tyre strategy engine for stint prediction, race simulation, and strategy optimization.
 
-**Tech:** Python, Pandas, NumPy, Scikit-Learn, FastF1, GitHub, SLM
+**Tech:** Python, Pandas, NumPy, Scikit-Learn, FastF1, GitHub, SLM, Matplotlib
 
 🏎️ [Enter Race Control→](https://github.com/UsualSuspect09/F1-Race-Strategy-Engine)
 
